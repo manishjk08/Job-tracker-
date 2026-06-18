@@ -191,7 +191,7 @@ POST /applications
 #### Update Application
 
 ```http
-PUT /applications/:id
+PATCH /applications/:id
 ```
 
 #### Delete Application
