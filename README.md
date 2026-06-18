@@ -204,25 +204,14 @@ DELETE /applications/:id
 
 ## Screenshots
 
-### Dashboard
-
-Add screenshot here:
-
-```md
+## 📊 Dashboard
 ![Dashboard](screenshots/dashboard.png)
-```
 
-### Application Form
-
-```md
+## 📝 Application Form
 ![Form](screenshots/form.png)
-```
 
-### Application Details
-
-```md
+## 📄 Application Details
 ![Details](screenshots/application_detail.png)
-```
 
 ---
 
