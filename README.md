@@ -211,7 +211,7 @@ DELETE /applications/:id
 ![Form](screenshots/form.png)
 
 ## 📄 Application Details
-![Details](screenshots/application_detail.png)
+![Details](screenshots/application_details.png)
 
 ---
 
